@@ -1,0 +1,1 @@
+This is my first web development project to learn the basics of HTML and CSS by creating a google homepage.
